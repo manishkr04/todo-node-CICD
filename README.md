@@ -24,4 +24,9 @@ node app.js
 `node app.js`
 >>>>>>> 745ca2f (Update README.md)
 
+<<<<<<< HEAD
 >>>>>>> 6128661 (Update README.md)
+=======
+or Run by docker compose
+
+>>>>>>> 634567f (Update README.md)
