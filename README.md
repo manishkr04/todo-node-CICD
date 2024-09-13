@@ -29,4 +29,9 @@ node app.js
 =======
 or Run by docker compose
 
+<<<<<<< HEAD
 >>>>>>> 634567f (Update README.md)
+=======
+test
+
+>>>>>>> c17d019 (Update README.md)
