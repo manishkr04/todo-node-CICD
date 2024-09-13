@@ -3,16 +3,25 @@
 =======
 # node-todo-cicd
 
-sudo apt install nodejs
-sudo apt install npm
+Run these commands:
 
 
-npm install
+`sudo apt install nodejs`
 
+<<<<<<< HEAD
 node app.js
 <<<<<<< HEAD
 ```
 >>>>>>> ee55abb (Create README.md)
 =======
+=======
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+>>>>>>> 745ca2f (Update README.md)
 
 >>>>>>> 6128661 (Update README.md)
